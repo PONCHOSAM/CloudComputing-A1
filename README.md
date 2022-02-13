@@ -38,6 +38,7 @@ examle for cpu.html the file name would be cpu.jfif this is for orginization hel
 #==========<Component pages
                       
 All of the component pages have a photo and a button leading to their respcive wiikipedia pages of the component as well as a button labled home leading to index.html
+
 #=========================<Closing
 
 This is my first time both using github and touching anything related to web development as well as touching in html so please if you have any feedback on the code or this readme let me know
