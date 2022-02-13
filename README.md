@@ -30,6 +30,8 @@ The index file feeds into the five other pages all about a different component f
 * psu.html
 * ram.html
 * ssd.html
+
+
 All of these have .jfifs with respective matching names to the file showing a photo of the part in mention
 examle for cpu.html the file name would be cpu.jfif this is for orginization help and ease of development
 #==========<Component pages
